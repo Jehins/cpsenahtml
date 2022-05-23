@@ -1,0 +1,20 @@
+.fondoBarra{
+    width: 100%;
+    height: 90px;
+    margin-top: 5px;
+    background-color: aqua;
+}
+.barra{
+    width: 90%;
+    height: 40px;
+    background-color:firebrick ;
+    padding: 4px;
+}
+.men li{
+    display: inline;
+    background-color:darksalmon;
+    margin: 3px;
+}
+.men li:hover{
+    background-color: rgb(26, 142, 224);
+}
